@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>483_left.jpeg</filename>
+	<path>D:\DR_Grade_500\2\483_left.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3888</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2748</xmin>
+			<ymin>1293</ymin>
+			<xmax>3166</xmax>
+			<ymax>1796</ymax>
+		</bndbox>
+	</object>
+</annotation>

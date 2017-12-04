@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>36_right.jpeg</filename>
+	<path>D:\DR_Grade_500\0\36_right.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1995</xmin>
+			<ymin>759</ymin>
+			<xmax>2366</xmax>
+			<ymax>1159</ymax>
+		</bndbox>
+	</object>
+</annotation>
