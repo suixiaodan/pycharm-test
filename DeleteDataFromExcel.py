@@ -13,6 +13,8 @@ wb = xlutils.copy.copy(data)
 nameImage = table.col_values(0)
 #print nameImage
 
+
+
 def removefile():
     for i in range(1, nrows+1):
         nvalue = table.cell(i-1,0).value
