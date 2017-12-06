@@ -136,7 +136,7 @@ def main():
     minV=np.min(mat_TemplateGrad)
     mat_TemplateGrad = mat_TemplateGrad/(maxV-minV)
                
-    for id in range(1, 2):
+    for id in range(2, 3):
         for jth in range(0,1):
             
             File_SubjectImg='na%02d_Warped_%d.mha'%(id,jth)
