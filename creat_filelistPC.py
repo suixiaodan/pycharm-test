@@ -9,7 +9,7 @@ root_img = os.getcwd()  # 获取当前路径
 #root_img = '/data4DR'
 #data = 'data4DR/DR_Grade_500'  #相对路径
 data = '/Users/victor/code4suixiaodan/Mask_RCNN-master/DRDataset/DRAnnMask' #绝对路径
-#path = os.listdir(root_img + '/' + data)  # 显示该路径下所有文件
+#path = os.listdir(root_img + '/' + data)  # 显示该路径下所有文件git
 path = os.listdir(data)
 path.sort()
 file = open('filelistmask403.txt', 'w')

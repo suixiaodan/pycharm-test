@@ -4,10 +4,10 @@ import os
 
 root_img = os.getcwd()  # 获取当前路径
 #root_img = '/data4DR'
-data = 'data4DR/DR_Grade_500'
+data = '/Users/victor/code4suixiaodan/Mask_RCNN-master/coco/DRDataset/images/'
 path = os.listdir(root_img + '/' + data)  # 显示该路径下所有文件
 path.sort()
-file = open('val_DR.txt', 'w')
+file = open('filelist.txt', 'w')
 
 i = 0
 
