@@ -23,7 +23,7 @@ def drimgclass():
     c = 0
     d = 0
     e = 0
-    #path = '../../Diabetic_Retinopathy/data/dataset2kaggle/original/1/'
+    # path = '../../Diabetic_Retinopathy/data/dataset2kaggle/original/1/'
     path = '/Volumes/Untitled/kaggle4DR/train'
     newpath = '/Volumes/Untitled/kaggle4DR/val'
     for i in range(1,nrows+1):

@@ -4,10 +4,10 @@ import os
 
 root_img = os.getcwd()  # 获取当前路径
 #root_img = '/data4DR'
-data = '/Users/victor/code4suixiaodan/Mask_RCNN-master/coco/DRDataset/images/'
+data = '/Users/victor/Project4sxd/DRandDME/data/ROC_Data/ROC_Mask/train'
 path = os.listdir(root_img + '/' + data)  # 显示该路径下所有文件
 path.sort()
-file = open('filelist.txt', 'w')
+file = open('IDRID_MA_Flip_train_80.txt', 'w')
 
 i = 0
 
