@@ -22,4 +22,4 @@ for filename in files:
         # 重新组合文件名和后缀名
     newname = rename +'.png'   # portion[1]
     print(newname)
-    os.rename("/Users/victor/code4suixiaodan/IDEA/code/pycharm-test/rename/"+filename, "/Users/victor/code4suixiaodan/IDEA/code/pycharm-test/rename/"+newname)
+    os.rename("/Users/victor/code4suixiaodan/IDEA/code/pycharm-test/rename/"+filename, "/Users/victo:r/code4suixiaodan/IDEA/code/pycharm-test/rename/"+newname)
