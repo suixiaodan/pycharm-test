@@ -1,4 +1,7 @@
 # coding=utf-8
+#在BRIC服务器上删除指定数据
+#By 隋晓丹
+
 import xlrd
 import os, sys
 import xlutils.copy
